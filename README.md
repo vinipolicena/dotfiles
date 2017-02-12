@@ -15,7 +15,8 @@ My [dotfiles](http://dotfiles.github.io/) collection, managed via [homesick](htt
   `homesick clone vinipolicena/dotfiles`
 
 4. Use the homesick command to symlink it in your home dir
-homesick symlink dotfiles
+
+  `homesick symlink dotfiles`
   
   
  
