@@ -24,6 +24,7 @@ set showmatch "highlight matching [{()}]
 set ruler "show the cursor position all the time
 set history=5000 "keep 5000 lines of command line history
 set backspace=indent,eol,start "backspace will work as it should in insert mode
+set mouse=a
 
 "SEARCHING
 set incsearch "search as characters are entered
