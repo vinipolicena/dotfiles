@@ -3,6 +3,11 @@
 set nocompatible
 
 
+"VIM-PLUG 
+call plug#begin('.vim/plugged')
+Plug 'elixir-lang/vim-elixir'
+call plug#end()
+
 "COLORS
 
 syntax enable "enable syntax processing
